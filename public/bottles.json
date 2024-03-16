@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Stainless Steel Water Bottle",
+      "price": 19.99,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ab442765-9603-4111-bd8b-2ce100fc3332/64oz-fuel-jug-qzhqFl.png"
+    },
+    {
+      "id": 2,
+      "name": "Glass Water Bottle",
+      "price": 14.50,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e668f8fd-8c6e-4491-b4c7-4770c6f33265/tr-recharge-2-shaker-bottle-24-oz-Vj8sG3.png"
+    },
+    {
+      "id": 3,
+      "name": "Plastic Sports Bottle",
+      "price": 9.99,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3b02e104-6d7e-4454-95c1-7b7e9e58b391/recharge-stainless-steel-straw-bottle-24-oz-b4v2hV.png"
+    },
+    {
+      "id": 4,
+      "name": "Copper Water Bottle",
+      "price": 24.99,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f5437020-6c3b-4771-a579-e46c7844b52e/32oz-big-mouth-water-bottle-1kn8d6.png"
+    },
+    {
+      "id": 5,
+      "name": "Insulated Water Bottle",
+      "price": 29.99,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8f20a283-91f6-4241-b8f7-c940bf5f318d/recharge-stainless-steel-chug-bottle-32-oz-4H1mgm.png"
+    },
+    {
+      "id": 6,
+      "name": "Aluminum Water Bottle",
+      "price": 12.99,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3bcd921b-7ed2-4f88-92e4-31a933f7aa67/recharge-stainless-steel-chug-bottle-24-oz-t3hTNx.png"
+    },
+    {
+      "id": 7,
+      "name": "BPA-Free Plastic Bottle",
+      "price": 7.99,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2740e5f6-1814-4422-9fca-35b817604b88/24oz-tr-hypercharge-shaker-bottle-p8wgMz.png"
+    },
+    {
+      "id": 8,
+      "name": "Travel Water Bottle",
+      "price": 22.50,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f85f94f2-5565-4ca8-93d7-94dcb636a28a/12-oz-stride-handheld-water-bottle-7vFm6p.png"
+    },
+    {
+      "id": 9,
+      "name": "Collapsible Water Bottle",
+      "price": 15.75,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8adf2cb0-dec7-4739-b3fa-4e81fb7e1d73/32oz-big-mouth-graphic-water-bottle-2td8kQ.png"
+    },
+    {
+      "id": 10,
+      "name": "Fruit Infuser Water Bottle",
+      "price": 17.99,
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/61648011-62bd-4967-b217-b471caa43f30/renew-recharge-tritan-straw-bottle-12-oz-4JnrQw.png"
+    }
+  ]
+  

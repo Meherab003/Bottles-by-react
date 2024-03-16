@@ -1,0 +1,59 @@
+.bottle{
+    border: 2px solid seagreen;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.bottle img{
+    border-radius: 15px;;
+    width: 200px;
+}
+
+.cart-container{
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid skyblue;
+    border-radius: 15px;
+}
+
+.cart{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.cart div{
+    border: 2px solid skyblue;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.cart img{
+    border-radius: 15px;
+    width: 100px;
+}
+
+.bottle-container{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
+@media screen and (min-width: 720px) {
+    .bottle-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .cart{
+        grid-template-columns: repeat(5, 1fr);
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    .bottle-container{
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .cart{
+        grid-template-columns: repeat(7, 1fr);
+    }
+}
